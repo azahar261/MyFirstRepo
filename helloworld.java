@@ -1,1 +1,2 @@
-Print "Hello World"
+Hello world
+Hi World
